@@ -2,7 +2,7 @@ import os
 import pyaes
 
 # Caminho do arquivo criptografado
-file_name = r"X:/Sla/teste.ransomwaretroll.txt"
+file_name = "X:/Sla/teste.ransomwaretroll.txt"
 
 # Abrir o arquivo criptografado
 with open(file_name, "rb") as file:
